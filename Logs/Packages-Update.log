@@ -1,0 +1,81 @@
+
+=== Sun Aug 10 12:16:45 2025
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were updated:
+  com.unity.nuget.newtonsoft-json from version 3.0.0 to 3.2.1
+
+=== Sun Oct 19 11:22:11 2025
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were updated:
+  com.unity.2d.animation from version 10.2.0 to 12.0.2
+  com.unity.2d.psdimporter from version 10.1.0 to 11.0.1
+  com.unity.2d.spriteshape from version 10.1.0 to 12.0.1
+  com.unity.adaptiveperformance from version 5.1.4 to 5.1.6
+  com.unity.adaptiveperformance.google.android from version 5.1.4 to 5.1.6
+  com.unity.ai.navigation from version 2.0.7 to 2.0.9
+  com.unity.burst from version 1.8.21 to 1.8.24
+  com.unity.collab-proxy from version 2.8.2 to 2.9.3
+  com.unity.collections from version 2.5.1 to 2.5.7
+  com.unity.ide.rider from version 3.0.36 to 3.0.37
+  com.unity.inputsystem from version 1.14.0 to 1.14.2
+  com.unity.learn.iet-framework from version 4.1.3 to 5.0.2
+  com.unity.mobile.notifications from version 2.4.0 to 2.4.2
+  com.unity.nuget.mono-cecil from version 1.11.4 to 1.11.5
+  com.unity.postprocessing from version 3.4.0 to 3.5.0
+  com.unity.probuilder from version 6.0.5 to 6.0.7
+  com.unity.render-pipelines.core from version 17.1.0 to 17.2.0
+  com.unity.render-pipelines.high-definition from version 17.1.0 to 17.2.0
+  com.unity.render-pipelines.universal from version 17.1.0 to 17.2.0
+  com.unity.services.levelplay from version 8.9.0 to 8.10.1
+  com.unity.shadergraph from version 17.1.0 to 17.2.0
+  com.unity.test-framework from version 1.5.1 to 1.6.0
+
+=== Fri Dec 12 13:04:35 2025
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were added:
+  com.unity.modules.adaptiveperformance@1.0.0
+  com.unity.modules.vectorgraphics@1.0.0
+The following packages were updated:
+  com.unity.2d.animation from version 12.0.2 to 13.0.2
+  com.unity.2d.pixel-perfect from version 5.1.0 to 5.1.1
+  com.unity.2d.psdimporter from version 11.0.1 to 12.0.1
+  com.unity.2d.spriteshape from version 12.0.1 to 13.0.0
+  com.unity.adaptiveperformance from version 5.1.6 to 6.0.0
+  com.unity.adaptiveperformance.google.android from version 5.1.6 to 6.0.0
+  com.unity.ads from version 4.12.0 to 4.16.4
+  com.unity.animation.rigging from version 1.3.0 to 1.4.0
+  com.unity.burst from version 1.8.24 to 1.8.25
+  com.unity.collab-proxy from version 2.9.3 to 2.10.2
+  com.unity.collections from version 2.5.7 to 2.6.2
+  com.unity.device-simulator.devices from version 1.0.0 to 1.0.1
+  com.unity.editorcoroutines from version 1.0.0 to 1.0.1
+  com.unity.ide.rider from version 3.0.37 to 3.0.38
+  com.unity.ide.visualstudio from version 2.0.23 to 2.0.25
+  com.unity.inputsystem from version 1.14.2 to 1.16.0
+  com.unity.mathematics from version 1.3.2 to 1.3.3
+  com.unity.multiplayer.center from version 1.0.0 to 1.0.1
+  com.unity.netcode.gameobjects from version 2.4.4 to 2.7.0
+  com.unity.nuget.mono-cecil from version 1.11.5 to 1.11.6
+  com.unity.nuget.newtonsoft-json from version 3.2.1 to 3.2.2
+  com.unity.postprocessing from version 3.5.0 to 3.5.1
+  com.unity.project-auditor from version 1.0.1 to 1.0.2
+  com.unity.render-pipelines.core from version 17.2.0 to 17.3.0
+  com.unity.render-pipelines.high-definition from version 17.2.0 to 17.3.0
+  com.unity.render-pipelines.universal from version 17.2.0 to 17.3.0
+  com.unity.searcher from version 4.9.2 to 4.9.4
+  com.unity.services.push-notifications from version 4.0.1 to 4.0.2
+  com.unity.settings-manager from version 2.1.0 to 2.1.1
+  com.unity.shadergraph from version 17.2.0 to 17.3.0
+  com.unity.test-framework.performance from version 3.1.0 to 3.2.0
+  com.unity.visualscripting from version 1.9.7 to 1.9.9
+The following packages were removed:
+  com.unity.rendering.light-transport@1.0.1
