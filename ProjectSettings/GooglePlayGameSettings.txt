@@ -1,0 +1,9 @@
+lastUpgrade=20100
+proj.pluginVersion=2.1.0
+proj.AppId=527116180616
+and.BundleId=com.sagames.ananthatha
+proj.classDir=Assets
+proj.ConstantsClassName=GPGSIds
+and.ResourceData=%3cresources%3e%0a++%3cstring+name%3d%22app_id%22%3e527116180616%3c%2fstring%3e%0a++%3cstring+name%3d%22package_name%22%3ecom.sagames.ananthatha%3c%2fstring%3e%0a++%3cstring+name%3d%22achievementFirstVictory%22%3eCgkIiLnK1KsPEAIQAQ%3c%2fstring%3e%0a%3c%2fresources%3e%0a
+and.ClientId=527116180616-mrljah7tb10f1fo7sm13ageiu9efijn6.apps.googleusercontent.com
+android.SetupDone=true
