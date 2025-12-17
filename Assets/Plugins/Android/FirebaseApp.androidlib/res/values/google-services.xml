@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_android_client_id,@string/default_web_client_id">
+  <string name="gcm_defaultSenderId" translatable="false">930392348898</string>
+  <string name="google_storage_bucket" translatable="false">night-break-dc61d.firebasestorage.app</string>
+  <string name="project_id" translatable="false">night-break-dc61d</string>
+  <string name="google_api_key" translatable="false">AIzaSyAy_Zv7SMPk6Wob0t9pTm4nDShGNdeyfx0</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAy_Zv7SMPk6Wob0t9pTm4nDShGNdeyfx0</string>
+  <string name="google_app_id" translatable="false">1:930392348898:android:6fd9e6b2908d3c6922e6bb</string>
+  <string name="default_android_client_id" translatable="false">930392348898-3gfqbofe5tgrh8vbf721fc157nh4f4os.apps.googleusercontent.com</string>
+  <string name="default_web_client_id" translatable="false">930392348898-sp8qq0j5rhmmasqnkdm1v12cmomnsi5e.apps.googleusercontent.com</string>
+</resources>
