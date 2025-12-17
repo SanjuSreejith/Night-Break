@@ -1,0 +1,607 @@
+{
+  "assetCategories": {
+    "surface": {
+      "stone": {
+        "tile": {}
+      },
+      "tile": {
+        "stone": {}
+      }
+    }
+  },
+  "averageColor": "#000000",
+  "categories": [
+    "surface",
+    "stone",
+    "tile"
+  ],
+  "comp_version": 1,
+  "description": "",
+  "displacementBias": 0.528633,
+  "displacementCalibrationAccuracy": 0.979439,
+  "displacementScale": 8.812832,
+  "environment": {
+    "biome": "urban",
+    "region": "Americas"
+  },
+  "highest_available_res": 8192,
+  "id": "vjqifhu",
+  "json": {
+    "contentLength": 12695,
+    "uri": "vjqifhu.json"
+  },
+  "maps": [
+    {
+      "averageColor": "#D2D2D2",
+      "bitDepth": 32,
+      "colorSpace": "sRGB",
+      "contentLength": 181488813,
+      "maxIntensity": 255,
+      "mimeType": "image/x-exr",
+      "minIntensity": 0,
+      "name": "AO",
+      "physicalSize": "2x2",
+      "resolution": "8192x8192",
+      "type": "ao",
+      "uri": "vjqifhu_8K_AO.exr"
+    },
+    {
+      "averageColor": "#D2D2D2",
+      "bitDepth": 8,
+      "colorSpace": "sRGB",
+      "contentLength": 31491028,
+      "maxIntensity": 255,
+      "mimeType": "image/jpeg",
+      "minIntensity": 0,
+      "name": "AO",
+      "physicalSize": "2x2",
+      "resolution": "8192x8192",
+      "type": "ao",
+      "uri": "vjqifhu_8K_AO.jpg"
+    },
+    {
+      "averageColor": "#99958D",
+      "bitDepth": 16,
+      "colorSpace": "sRGB",
+      "contentLength": 218535988,
+      "maxIntensity": 197,
+      "mimeType": "image/x-exr",
+      "minIntensity": 0,
+      "name": "Basecolor",
+      "physicalSize": "2x2",
+      "resolution": "8192x8192",
+      "type": "basecolor",
+      "uri": "vjqifhu_8K_Basecolor.exr"
+    },
+    {
+      "averageColor": "#99958D",
+      "bitDepth": 8,
+      "colorSpace": "sRGB",
+      "contentLength": 35010179,
+      "maxIntensity": 197,
+      "mimeType": "image/jpeg",
+      "minIntensity": 0,
+      "name": "Basecolor",
+      "physicalSize": "2x2",
+      "resolution": "8192x8192",
+      "type": "basecolor",
+      "uri": "vjqifhu_8K_Basecolor.jpg"
+    },
+    {
+      "averageColor": "#808080",
+      "bitDepth": 32,
+      "colorSpace": "Linear",
+      "contentLength": 191048514,
+      "maxIntensity": 255,
+      "mimeType": "image/x-exr",
+      "minIntensity": 0,
+      "name": "Bump",
+      "physicalSize": "2x2",
+      "resolution": "8192x8192",
+      "type": "bump",
+      "uri": "vjqifhu_8K_Bump.exr"
+    },
+    {
+      "averageColor": "#808080",
+      "bitDepth": 8,
+      "colorSpace": "Linear",
+      "contentLength": 11770360,
+      "maxIntensity": 255,
+      "mimeType": "image/jpeg",
+      "minIntensity": 0,
+      "name": "Bump",
+      "physicalSize": "2x2",
+      "resolution": "8192x8192",
+      "type": "bump",
+      "uri": "vjqifhu_8K_Bump.jpg"
+    },
+    {
+      "averageColor": "#FFFFFF",
+      "bitDepth": 32,
+      "colorSpace": "sRGB",
+      "contentLength": 203370554,
+      "maxIntensity": 255,
+      "mimeType": "image/x-exr",
+      "minIntensity": 255,
+      "name": "Cavity",
+      "physicalSize": "2x2",
+      "resolution": "8192x8192",
+      "type": "cavity",
+      "uri": "vjqifhu_8K_Cavity.exr"
+    },
+    {
+      "averageColor": "#FFFFFF",
+      "bitDepth": 8,
+      "colorSpace": "sRGB",
+      "contentLength": 39465084,
+      "maxIntensity": 255,
+      "mimeType": "image/jpeg",
+      "minIntensity": 255,
+      "name": "Cavity",
+      "physicalSize": "2x2",
+      "resolution": "8192x8192",
+      "type": "cavity",
+      "uri": "vjqifhu_8K_Cavity.jpg"
+    },
+    {
+      "averageColor": "#818181",
+      "bitDepth": 32,
+      "colorSpace": "Linear",
+      "contentLength": 264966587,
+      "maxIntensity": 181,
+      "mimeType": "image/x-exr",
+      "minIntensity": 82,
+      "name": "Displacement",
+      "physicalSize": "2x2",
+      "resolution": "8192x8192",
+      "type": "displacement",
+      "uri": "vjqifhu_8K_Displacement.exr"
+    },
+    {
+      "averageColor": "#818181",
+      "bitDepth": 8,
+      "colorSpace": "Linear",
+      "contentLength": 4365966,
+      "maxIntensity": 181,
+      "mimeType": "image/jpeg",
+      "minIntensity": 82,
+      "name": "Displacement",
+      "physicalSize": "2x2",
+      "resolution": "8192x8192",
+      "type": "displacement",
+      "uri": "vjqifhu_8K_Displacement.jpg"
+    },
+    {
+      "averageColor": "#1F1F1F",
+      "bitDepth": 32,
+      "colorSpace": "Linear",
+      "contentLength": 156172593,
+      "maxIntensity": 40,
+      "mimeType": "image/x-exr",
+      "minIntensity": 11,
+      "name": "Gloss",
+      "physicalSize": "2x2",
+      "resolution": "8192x8192",
+      "type": "gloss",
+      "uri": "vjqifhu_8K_Gloss.exr"
+    },
+    {
+      "averageColor": "#1F1F1F",
+      "bitDepth": 8,
+      "colorSpace": "Linear",
+      "contentLength": 13883101,
+      "maxIntensity": 40,
+      "mimeType": "image/jpeg",
+      "minIntensity": 11,
+      "name": "Gloss",
+      "physicalSize": "2x2",
+      "resolution": "8192x8192",
+      "type": "gloss",
+      "uri": "vjqifhu_8K_Gloss.jpg"
+    },
+    {
+      "averageColor": "#8183F4",
+      "bitDepth": 16,
+      "colorSpace": "Linear",
+      "contentLength": 196911702,
+      "maxIntensity": 204,
+      "mimeType": "image/x-exr",
+      "minIntensity": 77,
+      "name": "Normal",
+      "physicalSize": "2x2",
+      "resolution": "8192x8192",
+      "type": "normal",
+      "uri": "vjqifhu_8K_Normal.exr"
+    },
+    {
+      "averageColor": "#8183F4",
+      "bitDepth": 8,
+      "colorSpace": "Linear",
+      "contentLength": 58829906,
+      "maxIntensity": 204,
+      "mimeType": "image/jpeg",
+      "minIntensity": 77,
+      "name": "Normal",
+      "physicalSize": "2x2",
+      "resolution": "8192x8192",
+      "type": "normal",
+      "uri": "vjqifhu_8K_Normal.jpg"
+    },
+    {
+      "averageColor": "#E0E0E0",
+      "bitDepth": 32,
+      "colorSpace": "Linear",
+      "contentLength": 138210942,
+      "maxIntensity": 244,
+      "mimeType": "image/x-exr",
+      "minIntensity": 215,
+      "name": "Roughness",
+      "physicalSize": "2x2",
+      "resolution": "8192x8192",
+      "type": "roughness",
+      "uri": "vjqifhu_8K_Roughness.exr"
+    },
+    {
+      "averageColor": "#E0E0E0",
+      "bitDepth": 8,
+      "colorSpace": "Linear",
+      "contentLength": 12875095,
+      "maxIntensity": 244,
+      "mimeType": "image/jpeg",
+      "minIntensity": 215,
+      "name": "Roughness",
+      "physicalSize": "2x2",
+      "resolution": "8192x8192",
+      "type": "roughness",
+      "uri": "vjqifhu_8K_Roughness.jpg"
+    },
+    {
+      "averageColor": "#383838",
+      "bitDepth": 16,
+      "colorSpace": "sRGB",
+      "contentLength": 219951832,
+      "maxIntensity": 56,
+      "mimeType": "image/x-exr",
+      "minIntensity": 56,
+      "name": "Specular",
+      "physicalSize": "2x2",
+      "resolution": "8192x8192",
+      "type": "specular",
+      "uri": "vjqifhu_8K_Specular.exr"
+    },
+    {
+      "averageColor": "#383838",
+      "bitDepth": 8,
+      "colorSpace": "sRGB",
+      "contentLength": 22878981,
+      "maxIntensity": 56,
+      "mimeType": "image/jpeg",
+      "minIntensity": 56,
+      "name": "Specular",
+      "physicalSize": "2x2",
+      "resolution": "8192x8192",
+      "type": "specular",
+      "uri": "vjqifhu_8K_Specular.jpg"
+    }
+  ],
+  "meta": [
+    {
+      "key": "scanArea",
+      "name": "Scan Area",
+      "value": "2x2 m"
+    },
+    {
+      "key": "height",
+      "name": "Height",
+      "value": "0.078 m"
+    },
+    {
+      "key": "tileable",
+      "name": "Tileable",
+      "value": true
+    },
+    {
+      "key": "tiling_directions",
+      "name": "Tiling Directions",
+      "value": [
+        "x",
+        "y"
+      ]
+    },
+    {
+      "key": "texelDensity",
+      "name": "Texel Density",
+      "value": "4096 px/m"
+    },
+    {
+      "key": "calibration",
+      "name": "Calibration",
+      "value": "GretagMacbeth ColorChecker Color Rendition Chart"
+    },
+    {
+      "key": "scanner",
+      "name": "Scanner",
+      "value": "MKX"
+    }
+  ],
+  "models": [],
+  "name": "Curated Stone Facade",
+  "pack": null,
+  "physicalSize": null,
+  "points": 2,
+  "previews": {
+    "images": [
+      {
+        "contentLength": 279532,
+        "resolution": "360x360",
+        "tags": [
+          "thumb"
+        ],
+        "uri": "vjqifhu_Grid_360.png"
+      },
+      {
+        "contentLength": 378343,
+        "resolution": "420x420",
+        "tags": [
+          "thumb"
+        ],
+        "uri": "vjqifhu_Grid_420.png"
+      },
+      {
+        "contentLength": 1110437,
+        "resolution": "720x720",
+        "tags": [
+          "thumb",
+          "retina"
+        ],
+        "uri": "vjqifhu_Grid_720.png"
+      },
+      {
+        "contentLength": 1511671,
+        "resolution": "840x840",
+        "tags": [
+          "thumb",
+          "retina"
+        ],
+        "uri": "vjqifhu_Grid_840.png"
+      },
+      {
+        "contentLength": 3034488,
+        "resolution": "1440x768",
+        "tags": [
+          "preview",
+          "clay"
+        ],
+        "uri": "vjqifhu_PopupClay_1440.png"
+      },
+      {
+        "contentLength": 5659412,
+        "resolution": "1920x1080",
+        "tags": [
+          "preview",
+          "clay"
+        ],
+        "uri": "vjqifhu_PopupClay_1920.png"
+      },
+      {
+        "contentLength": 12042679,
+        "resolution": "2880x1536",
+        "tags": [
+          "preview",
+          "clay",
+          "retina"
+        ],
+        "uri": "vjqifhu_PopupClay_2880.png"
+      },
+      {
+        "contentLength": 22861206,
+        "resolution": "3840x2160",
+        "tags": [
+          "preview",
+          "clay",
+          "retina"
+        ],
+        "uri": "vjqifhu_PopupClay_3840.png"
+      },
+      {
+        "contentLength": 3413533,
+        "resolution": "1440x768",
+        "tags": [
+          "preview",
+          "tiled"
+        ],
+        "uri": "vjqifhu_PopupTiled_1440.png"
+      },
+      {
+        "contentLength": 6409562,
+        "resolution": "1920x1080",
+        "tags": [
+          "preview",
+          "tiled"
+        ],
+        "uri": "vjqifhu_PopupTiled_1920.png"
+      },
+      {
+        "contentLength": 13704243,
+        "resolution": "2880x1536",
+        "tags": [
+          "preview",
+          "tiled",
+          "retina"
+        ],
+        "uri": "vjqifhu_PopupTiled_2880.png"
+      },
+      {
+        "contentLength": 25737559,
+        "resolution": "3840x2160",
+        "tags": [
+          "preview",
+          "tiled",
+          "retina"
+        ],
+        "uri": "vjqifhu_PopupTiled_3840.png"
+      },
+      {
+        "contentLength": 3419324,
+        "resolution": "1440x768",
+        "tags": [
+          "preview"
+        ],
+        "uri": "vjqifhu_Popup_1440.png"
+      },
+      {
+        "contentLength": 6413095,
+        "resolution": "1920x1080",
+        "tags": [
+          "preview"
+        ],
+        "uri": "vjqifhu_Popup_1920.png"
+      },
+      {
+        "contentLength": 13702567,
+        "resolution": "2880x1536",
+        "tags": [
+          "preview",
+          "retina"
+        ],
+        "uri": "vjqifhu_Popup_2880.png"
+      },
+      {
+        "contentLength": 25810379,
+        "resolution": "3840x2160",
+        "tags": [
+          "preview",
+          "retina"
+        ],
+        "uri": "vjqifhu_Popup_3840.png"
+      }
+    ],
+    "relativeSize": "1x1",
+    "scaleReferences": []
+  },
+  "process_date": "2024-04-16 11:11:35",
+  "properties": [],
+  "referencePreviews": {
+    "maps": [],
+    "models": []
+  },
+  "references": [],
+  "revised": true,
+  "revision": 0,
+  "semanticTags": {
+    "architectural_style": {},
+    "asset_type": "surface",
+    "city": "Alabama",
+    "color": [
+      "Brown"
+    ],
+    "contains": [
+      "stone",
+      "tiles",
+      "grout"
+    ],
+    "country": "United States",
+    "descriptive": [
+      "rough",
+      "decorative",
+      "ornate",
+      "patterned"
+    ],
+    "environment": [
+      "urban",
+      "rural"
+    ],
+    "locations": {
+      "Americas": {
+        "United States": {
+          "Alabama": {}
+        }
+      }
+    },
+    "maxSize": 2,
+    "minSize": 2,
+    "name": "Curated Stone Facade",
+    "orientation": [
+      "wall"
+    ],
+    "region": "Americas",
+    "state": [
+      "old"
+    ],
+    "theme": [
+      "exteriors",
+      "outdoors",
+      "facades",
+      "urban",
+      "city",
+      "buildings",
+      "homes",
+      "offices",
+      "houses",
+      "downtown",
+      "walls",
+      "modern",
+      "streets"
+    ]
+  },
+  "tags": [
+    "brown",
+    "exteriors",
+    "outdoors",
+    "facades",
+    "urban",
+    "city",
+    "buildings",
+    "homes",
+    "offices",
+    "houses",
+    "downtown",
+    "walls",
+    "modern",
+    "streets",
+    "stone",
+    "tiles",
+    "grout",
+    "rough",
+    "decorative",
+    "ornate",
+    "patterned"
+  ],
+  "texelDensity": 4096,
+  "texture_type": "basic",
+  "ue_plugin_archives": [
+    {
+      "contentLength": 245323527,
+      "gltfVersion": "2.0",
+      "tier": 0,
+      "type": "gltf",
+      "uri": "ue_plugin_archives/tier_0/vjqifhu_tier_0.zip",
+      "version": 1
+    },
+    {
+      "contentLength": 81538126,
+      "gltfVersion": "2.0",
+      "tier": 1,
+      "type": "gltf",
+      "uri": "ue_plugin_archives/tier_1/vjqifhu_tier_1.zip",
+      "version": 1
+    },
+    {
+      "contentLength": 21927239,
+      "gltfVersion": "2.0",
+      "tier": 2,
+      "type": "gltf",
+      "uri": "ue_plugin_archives/tier_2/vjqifhu_tier_2.zip",
+      "version": 1
+    },
+    {
+      "contentLength": 1978874,
+      "gltfVersion": "2.0",
+      "tier": 3,
+      "type": "gltf",
+      "uri": "ue_plugin_archives/tier_3/vjqifhu_tier_3.zip",
+      "version": 1
+    }
+  ],
+  "version": 2
+}
